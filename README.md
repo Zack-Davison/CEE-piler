@@ -1,7 +1,6 @@
 # CEE-piler
-Since developing my programming skills, I have recently been wondering how programming languages and computers work at a lower level. Up until
-now I have only worked using programming languages that are highly abstracted therefore I have never really needed to understand low level
-computing concepts.
+After spending most of my time in the world of high-level, abstracted programming languages, I found myself wondering: what is actually happening under the bonnet?
 
-Therefore to learn low level programming and system's development I am going to create a C compiler, keep in mind I have never worked with C 
-before. How hard could it really be.. 
+I realised I didn't truly understand low-level computing concepts or systems architecture. To bridge this gap, I decided to dive into the deep end. This project is my attempt to build a C Compiler from scratch.
+
+The catch? I have never written a line of C before. This repository documents my journey, my mistakes, and my attempt to answer the question: How hard could it really be?
